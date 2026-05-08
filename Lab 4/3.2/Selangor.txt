@@ -1,0 +1,6 @@
+Type       Plat Number     Price      
+----       -----------     -----      
+Kancil     BFC5346         30000.000000
+Waja       BFR5499         66000.000000
+Savy       BFF1234         30000.000000
+Total price in Selaangor = 126000.0

@@ -1,0 +1,5 @@
+Detail of request for Quiz
+Data1:
+Staff ID:298344 Number of pages for master copy:5 Number of copies required:100 Total:500
+Data2:
+Staff ID:186529 Number of pages for master copy:3 Number of copies required:80 Total:240

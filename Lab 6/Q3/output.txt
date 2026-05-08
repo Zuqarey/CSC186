@@ -1,0 +1,35 @@
+Enter the number of tickets: 2
+
+--- Ticket 1 ---
+Enter Ticket ID: 1223er4
+Enter Customer Name: zu
+Is Early Bird? (yes/no): yes
+Ticket Type - (1) General Admission or (2) VIP: 1
+Enter Seating Area (1-10): 3
+
+--- Ticket 2 ---
+Enter Ticket ID: qwqe345
+Enter Customer Name: vz
+Is Early Bird? (yes/no): no
+Ticket Type - (1) General Admission or (2) VIP: 2
+Enter Package Type (Gold/Silver/Bronze/Platinum): gold
+
+===== TICKET SUMMARY =====
+
+--- Ticket 1 ---
+Ticket ID: 1223er4
+Customer Name: zu
+Early Bird: true
+Seating Area: 3
+Ticket Price: RM 42.5
+
+--- Ticket 2 ---
+Ticket ID: qwqe345
+Customer Name: vz
+Early Bird: false
+Package Type: gold
+Ticket Price: RM 100.0
+
+===== TOTAL SUMMARY =====
+Total Price of All Tickets: RM 142.50
+Number of Platinum Package Tickets: 0

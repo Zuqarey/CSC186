@@ -1,0 +1,6 @@
+Type       Plat Number     Price      
+----       -----------     -----      
+Kelisa     TAA3375         35000.000000
+Waja       TAP5609         65000.000000
+Myvi       TAN789          55000.000000
+Total price in Terengganu = 155000.0
